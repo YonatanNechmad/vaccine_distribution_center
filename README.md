@@ -97,3 +97,5 @@ About the project :
     130,160,120,40
     
 Important note : in this project we use "sqlite3" package .
+
+To run the project please download all the files and run : "python3 compare_output.py true_output.txt tested_output.txt db_true.db db_tested.db"
