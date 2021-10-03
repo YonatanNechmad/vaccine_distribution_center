@@ -1,5 +1,6 @@
 # vaccine_distribution_center
 
+To run the project please download all the files and run : "python3 compare_output.py true_output.txt tested_output.txt db_true.db db_tested.db"
 
 
 About the project :
@@ -98,4 +99,3 @@ About the project :
     
 Important note : in this project we use "sqlite3" package .
 
-To run the project please download all the files and run : "python3 compare_output.py true_output.txt tested_output.txt db_true.db db_tested.db"
