@@ -1,7 +1,7 @@
 # vaccine_distribution_center
 
 
-About the project :
+About the project  :
 
   1 Building the Database:
   
